@@ -1,0 +1,41 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Alexander",
+      "empresa": "Mens hunting",
+      "email": "alexander12@correo.com",
+      "telefono": "319381983",
+      "notas": "El cliente necesita un sitio web relacionado con cacería ",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Miguel",
+      "empresa": "Home Spot",
+      "email": "miguelito@correo.com",
+      "telefono": "12345678",
+      "notas": "El cliente solicita una tienda online relacionada con venta de muebles para hogares",
+      "id": 6
+    }
+  ]
+}
